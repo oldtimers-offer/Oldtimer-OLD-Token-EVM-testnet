@@ -1,6 +1,6 @@
-# Oldtimer (OLD) token on EOS EVM testnet
+# Oldtimer (OLD) token on EVM testnet
 
-Deployment of Oldtimer (OLD) token (DAO compatible) on EOS EVM testnet.
+Deployment of Oldtimer (OLD) token (DAO compatible) on EVM testnet.
 
 OldTimers Offer - A step towards decentralization of the classic vehicle market. (https://oldtimersoffer.com/)
 
@@ -37,7 +37,7 @@ $ yarn compile
 
 ### Deploy
 
-Deploy the contract to EOS EVM testnet:
+Deploy the contract to EVM testnet:
 
 ```sh
 $ yarn deploy --network eosevm
